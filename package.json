@@ -2,7 +2,7 @@
   "name": "mylib",
   "version": "1.0.0",
   "description": "Simplifying a lot of things",
-  "main": "index.js",
+  "main": "methods.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
