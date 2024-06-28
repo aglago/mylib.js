@@ -1,0 +1,22 @@
+{
+  "name": "mylib",
+  "version": "1.0.0",
+  "description": "Simplifying a lot of things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aglago/mylib.js.git"
+  },
+  "keywords": [
+    "Samuella"
+  ],
+  "author": "Samuella Manye Aglago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aglago/mylib.js/issues"
+  },
+  "homepage": "https://github.com/aglago/mylib.js#readme"
+}
