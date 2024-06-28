@@ -3,4 +3,6 @@
  */
 function methods(object) {
      return Object.keys(object).filter(key => typeof object[key] === 'function')
- }
+}
+ 
+export default methods;
